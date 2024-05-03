@@ -1,0 +1,1 @@
+Create a temporary table #Dates and populate it with various holiday dates based on certain criteria for years 2001 and 2002. The script calculates dates for holidays like MLK Day, Presidents Day, Memorial Day, etc., for each year and inserts them into the #Dates table along with their respective types.
